@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Latihan</string>
+    <string name="ayo_jaga_diri">Cara menjaga diri agar terhidar dari penularan covid-19</string>
+    <string name="cuci_tangan">Cara mencuci tangan yang benar</string>
+    <string name="pakai_masker">Cara pake masker yang benar</string>
+    <string name="pola_sehat">Cara menjaga pola hidup sehat</string>
+    <string name="move_with_result">Pindah Activity untuk result</string>
+    <string name="choose_number">pilih angka yang kamu suka</string>
+    <string name="_50">50</string>
+    <string name="_100">100</string>
+    <string name="_150">150</string>
+    <string name="_200">200</string>
+    <string name="MASKER">cara menjaga diri salah satunya yaitu dengan memakai masker yang bisa meminimalisir penularan covid-19</string>
+    <string name="CUCITANGAN">gambar diatas adalah cara cuci tangan yang baik dan benar</string>
+    <string name="CARAPAKAIMASKER">gambar diatas adalah cara memakai masker dengan benar</string>
+    <string name="POLASEHAT">pola sehat menurut sayang yaitu dengan menjaga pola makan,olahraga,dan istirahat yang cukup</string>
+</resources>

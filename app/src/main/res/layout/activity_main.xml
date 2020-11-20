@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingBottom="@dimen/activity_vertical_margin">
+
+    <Button
+        android:id="@+id/btn_ayo_jaga_diri"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/ayo_jaga_diri" />
+
+    <Button
+        android:id="@+id/btn_cuci_tangan"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/cuci_tangan" />
+
+    <Button
+        android:id="@+id/btn_pakai_masker"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/pakai_masker" />
+
+    <Button
+        android:id="@+id/btn_pola_sehat"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/pola_sehat" />
+
+</LinearLayout>
